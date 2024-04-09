@@ -42,4 +42,19 @@ External Links:
 [Link to the website for this repo](http://cse110lab1_derricklin.com/)
 
 Section Links:
-[Go to Headings](#heading-level-1)
+[Go to Headings](#heading-level-1)\
+
+Relevant Links:
+[Another Page, or md file](./README.md)
+[Link to an image](./screenshots/2.1.png)
+
+Ordered list:
+1. apple
+2. banana
+3. mango
+
+Unordered list:
+- tomato
+- celery
+- asparagus
+
