@@ -1,2 +1,1 @@
-# CSE110_Lab1
-Lab 1 for CSE 110 @UCSD
+My favorite programming language is Python due to the ease of learning it and leetcoding...
