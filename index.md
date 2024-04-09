@@ -42,4 +42,4 @@ External Links:
 [Link to the website for this repo](http://cse110lab1_derricklin.com/)
 
 Section Links:
-[Go to Headings](#Heading level 1)
+[Go to Headings](#heading-level-1)
