@@ -36,3 +36,9 @@ Quoting Code:
 # block of code with syntax highlighting
 def function(param):
     return param
+
+External Links:
+[Link to the website for this repo](http://cse110lab1_derricklin.com/)
+
+Section Links:
+[Go to Headings](#Heading level 1)
